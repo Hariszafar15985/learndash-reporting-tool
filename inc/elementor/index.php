@@ -1,0 +1,4 @@
+<?php
+/*
+ * Silemce is gold
+ */

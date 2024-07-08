@@ -1,0 +1,454 @@
+/**
+Responsible for reporting page styling
+*/
+
+.famb-hub-wrap {
+    width: 100%;
+    background-color: #fff;
+    /* display: flex; */
+    /* gap: 10px; */
+    /* padding: 50px; */
+    font-family: 'Poppins', sans-serif !Important;
+}
+
+.famb-course-head h3 {
+    font-size: 26px;
+    font-weight: 600;
+    max-width: 500px;
+}
+
+.famb-hub-wrap a {
+    color: #333334;
+}
+
+/* .famb-hub-sidebar {
+    width: 22%;
+    padding: 10px;
+} */
+
+/* .famb-hub-sidebar p{
+    font-size: 16px;
+    color: gray;
+} */
+/* .famb-hub-sidebar #menu li a {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif !Important;
+    color: #7A7A7A;
+    font-weight: 600;
+}
+
+.famb-hub-sidebar ul {
+    list-style-type: none !important;
+}
+
+.famb-hub-sidebar ul ul {
+    display: none;
+    padding-left: 15px;
+}
+
+
+.famb-hub-sidebar ul ul li {
+    padding: 10px;
+    border-bottom: 1px solid #edeef0;
+    font-size: 18px;
+}
+
+.famb-hub-sidebar ul ul li:hover,
+.famb-hub-sidebar ul ul li.active 
+{
+    background-color: #e2ebf8 !important;
+} */
+
+/* .famb-group-new {
+    color: #fff !important;
+}
+
+.famb-hub-sidebar li {
+    cursor: pointer;
+    padding-bottom: 15px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif !Important;
+    color: #7A7A7A;
+    font-weight: 500;
+}
+
+.famb-hub-sidebar li i {
+    color: #7A7A7A;
+    padding: 8px 15px 15px 10px;
+}
+
+.famb-hub-sidebar li .aloa-group-toggle {
+    max-width: 100%;
+    position: relative;
+    margin: 0;
+    font-size: 20px;
+    display: flex;
+} */
+
+/* .arrow i {
+    position: absolute;
+    right: 0;
+    padding: 0 !important;
+}
+
+.arrow {
+    display: flex;
+    align-items: center;
+}
+
+.arrow i.down {
+    transform: rotate(-90deg);
+} */
+
+.famb-hub-content {
+    width: 100%;
+    background-color: #f3f3f3;
+    padding: 30px;
+}
+
+.famb-hub-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.famb-group-create a,
+.famb-group-link a {
+    padding: 12px 17px;
+    background-color: #00aeef;
+    border-radius: 30px;
+    font-size: 20px;
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.famb-group-copy {
+    background-color: #c8d1dd !important;
+}
+
+.famb-group-copy span {
+    font-size: 18px;
+}
+.aloa-progress-sort{
+    cursor: pointer;
+}
+
+.famb-hub-course {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.famb-hub-course {
+    margin: 20px 0;
+}
+
+.famb-main-wrap {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    margin: 20px 0;
+    border: 1px solid #e2ebf8;
+}
+
+.famb-main-wrap table td,
+.famb-main-wrap table th {
+    border: none;
+    text-align: left;
+    background-color: #fff !important;
+}
+
+.styled-table {
+    margin: 25px 0;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.styled-table thead tr {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+}
+.styled-table .aloa-report-link a{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    align-items: flex-start;
+}
+.statistic_data {
+    display: none;
+}
+
+.famb-quizz-wrap .famb-item-wrap {
+    background-color: #f1f3f4;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+
+.famb-quizz-wrap .famb-div-row span:first-child {
+    display: none;
+}
+
+.famb-quizz-wrap .famb-div-row span {
+    color: #e96b86;
+    font-size: 20px;
+}
+
+.famb-quizz-wrap .wpProQuiz_questionList p label {
+    margin-left: 30px;
+    font-size: 10px;
+}
+
+.famb-quizz-wrap .wpProQuiz_questionList p label:first-child {
+    margin-left: 0px;
+}
+
+.famb-quizz-wrap .wpProQuiz_questionList {
+    padding: 0 !important;
+    list-style-type: none;
+    font-size: 18px;
+}
+
+.famb-quizz-wrap .wpProQuiz_questionList label input {
+    margin-right: 10px;
+}
+
+.famb-quizz-wrap .famb-div-row p:first-child {
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+.famb-quizz-wrap .famb-div-row p {
+    padding: 10px 0;
+    line-height: 26px;
+    font-style: normal;
+}
+
+.famb-quiz-head {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.famb-que-name{
+    font-size: 26px;
+}
+
+.famb-quiz-head time {
+    font-size: 14px;
+    color: #c8d1dd;
+}
+
+.famb-quiz-head h2 {
+    font-size: 26px !important;
+    border-bottom: unset !important;
+    padding: 0 !important;
+    font-family: 'Poppins', sans-serif !Important;
+}
+
+.famb-hub-content {
+    position: relative;
+}
+
+.aloa-reporting-loader-overlay {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(85, 76, 76, 0.7);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.aloa-reporting-loader {
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #3498db;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.famb-course-selection .select2-container {
+    z-index: 99 !important;
+}
+
+.famb-course-selection .select2-container--default .select2-search--dropdown .select2-search__field {
+    width: 100%;
+}
+
+.famb-course-selection .select2-selection__rendered {
+    line-height: 45px !important;
+    font-size: 14px;
+}
+
+.famb-course-selection .select2-container .select2-selection--single {
+    height: 45px !important;
+}
+
+.famb-course-selection .select2-selection__arrow {
+    height: 43px !important;
+}
+
+.select2-container--open .alao-select2-course.select2-dropdown--below {
+    top: 0 !important;
+}
+
+.select2-container--open .alao-select2-course.select2-dropdown--below input {
+    width: 100% !important;
+}
+
+.aloa-report-link {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    align-content: center;
+}
+
+.aloa-report-paging {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.paging-item {
+    flex-basis: calc(100%/3 - 10px);
+}
+
+.aloa-paging-list ul {
+    display: flex;
+    list-style-type: none;
+    gap: 5px;
+}
+
+.aloa-paging-list a {
+    font-size: 12px;
+    color: gray;
+    padding: 10px;
+}
+
+.aloa-paging-list li.active a {
+    background-color: #f3f3f3;
+    color: #000;
+}
+
+.aloa-next-previous ul {
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    justify-content: flex-end;
+}
+
+.aloa-next-previous a {
+    font-size: 12px;
+    color: #00aeef;
+}
+
+.aloa-per-page {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.aloa-per-page span {
+    font-size: 12px;
+    color: gray;
+}
+
+.aloa-per-page select {
+    font-size: 12px;
+    width: 20%;
+    height: 17px;
+    padding: 2px 4px 0 11px;
+    margin: 0;
+    height: 34px;
+    background: #fff;
+    border: 1px solid #f3f3f3;
+    color: gray;
+    min-height: 25px !important;
+}
+
+.aloa-per-page select::-webkit-scrollbar {
+    width: 10px;
+}
+
+.aloa-per-page select::-webkit-scrollbar-thumb {
+    background-color: #808080;
+    border-radius: 5px;
+}
+
+/* Style the scrollbar (for Firefox) */
+.aloa-per-page select {
+    scrollbar-width: thin;
+    scrollbar-color: #808080 transparent;
+}
+
+.aloa-progress-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.aloa-progress-item {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-content: center;
+    align-items: center;
+}
+
+.aloa-std-progress-wrap {
+    background: #fff;
+    padding: 30px 40px;
+    border: 1px solid #e2ebf8;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.aloa-std-progress span {
+    font-size: 16px;
+    height: 35px;
+}
+
+.aloa-std-progress-wrap,
+.aloa-std-progress-wrap * {
+    box-sizing: content-box !important;
+}
+
+.aloa-progress-item .aloa-prog-text h6 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    color: #b3adb3;
+}
+
+.aloa-progress-item .aloa-prog-text h3 {
+    font-size: 22px;
+    font-weight: 800;
+}
