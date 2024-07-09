@@ -1,7 +1,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: ALOA Agency Learndash Reporting Tool\n"
+"Project-Id-Version: PROV Agency Learndash Reporting Tool\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-05 17:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -14,116 +14,116 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.6.6; wp-6.2.2\n"
-"X-Domain: aloa-agency-learndash-reporting-tool"
+"X-Domain: prov-agency-learndash-reporting-tool"
 
-#: inc/aloa-marketing-functions.php:262
+#: inc/prov-marketing-functions.php:262
 msgid "%"
 msgstr ""
 
 #. 1. number percentage
-#: inc/aloa-marketing-functions.php:272
+#: inc/prov-marketing-functions.php:272
 #, php-format
 msgid "%1$s%%"
 msgstr ""
 
-#: page-templates/aloa-reporting.php:111
+#: page-templates/prov-reporting.php:111
 msgid "Add New Group"
 msgstr ""
 
 #. Author of the plugin
-msgid "Aloa Agency"
+msgid "PROV Agency"
 msgstr ""
 
 #. Name of the plugin
-msgid "ALOA Agency Learndash Reporting Tool"
+msgid "PROV Agency Learndash Reporting Tool"
 msgstr ""
 
-#: aloa-agency-learndash-reporting-tool.php:61
-msgid "Aloa Reporting"
+#: prov-agency-learndash-reporting-tool.php:61
+msgid "PROV Reporting"
 msgstr ""
 
-#: inc/aloa-reporting-options.php:234
-msgid "Aloa Settings"
+#: inc/prov-reporting-options.php:234
+msgid "PROV Settings"
 msgstr ""
 
-#: inc/aloa-marketing-functions.php:112
+#: inc/prov-marketing-functions.php:112
 msgid "Approved"
 msgstr ""
 
-#: inc/aloa-marketing-functions.php:12 inc/aloa-marketing-functions.php:249
+#: inc/prov-marketing-functions.php:12 inc/prov-marketing-functions.php:249
 msgid "Completed"
 msgstr ""
 
-#: page-templates/aloa-reporting.php:135
+#: page-templates/prov-reporting.php:135
 msgid "Copy Group Link"
 msgstr ""
 
-#: inc/aloa-reporting-options.php:75
+#: inc/prov-reporting-options.php:75
 msgid "General Settings"
 msgstr ""
 
 #. URI of the plugin
 #. Author URI of the plugin
-msgid "https://aloa-agency.net"
+msgid "https://prov-agency.net"
 msgstr ""
 
-#: inc/aloa-marketing-functions.php:251 inc/aloa-marketing-functions.php:255
+#: inc/prov-marketing-functions.php:251 inc/prov-marketing-functions.php:255
 msgid "In Progress"
 msgstr ""
 
-#: page-templates/aloa-reporting.php:200
+#: page-templates/prov-reporting.php:200
 msgid "Loading"
 msgstr ""
 
-#: page-templates/aloa-reporting.php:146
+#: page-templates/prov-reporting.php:146
 msgid "Name"
 msgstr ""
 
-#: inc/aloa-marketing-functions.php:114
+#: inc/prov-marketing-functions.php:114
 msgid "Not Approved"
 msgstr ""
 
-#: inc/aloa-marketing-functions.php:13
+#: inc/prov-marketing-functions.php:13
 msgid "Not Completed"
 msgstr ""
 
-#: inc/aloa-marketing-functions.php:298
+#: inc/prov-marketing-functions.php:298
 msgid "Not Found: "
 msgstr ""
 
-#: inc/aloa-marketing-functions.php:260
+#: inc/prov-marketing-functions.php:260
 msgid "Not Started"
 msgstr ""
 
-#: page-templates/aloa-reporting.php:147
+#: page-templates/prov-reporting.php:147
 msgid "Progress"
 msgstr ""
 
-#: page-templates/aloa-reporting.php:148
+#: page-templates/prov-reporting.php:148
 msgid "Response"
 msgstr ""
 
-#: inc/aloa-reporting-options.php:130
+#: inc/prov-reporting-options.php:130
 #, php-format
 msgid "Select %s"
 msgstr ""
 
-#: inc/aloa-reporting-options.php:161
+#: inc/prov-reporting-options.php:161
 msgid "Settings Saved"
 msgstr ""
 
-#: inc/aloa-marketing-functions.php:187
+#: inc/prov-marketing-functions.php:187
 msgid "Student Report Image"
 msgstr ""
 
-#: page-templates/aloa-reporting.php:179
+#: page-templates/prov-reporting.php:179
 msgid "There are no students enrolled in this course group."
 msgstr ""
 
 #. Description of the plugin
-msgid "This is the learndash reporting plugin by the ALOA Agency."
+msgid "This is the learndash reporting plugin by the PROV Agency."
 msgstr ""
 
-#: page-templates/aloa-reporting.php:194
+#: page-templates/prov-reporting.php:194
 msgid "X"
 msgstr ""
